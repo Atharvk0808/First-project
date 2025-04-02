@@ -1,5 +1,5 @@
 # Factorial Program
-num = 8
+num = 10
 
 factorial = 1
 
